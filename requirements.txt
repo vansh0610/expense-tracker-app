@@ -1,0 +1,43 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# OpenAI
+langchain-openai
+openai
+
+# Anthropic
+langchain-anthropic
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Streamlit
+streamlit
+
+# HTTP Requests (ServiceNow API)
+requests
+
+# Environment Variables
+python-dotenv
+
+# Machine Learning
+numpy
+scikit-learn
+
+# Data Handling
+pandas
+
+# JSON Validation (optional but useful)
+pydantic
+
+# Tokenizer Support
+sentencepiece
+tiktoken
